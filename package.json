@@ -1,0 +1,19 @@
+{
+  "name": "webbserver",
+  "version": "1.0.0",
+  "description": "Express webbserver with REST AP",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "rest",
+    "api\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+  ],
+  "author": "Stefan Forslin",
+  "license": "ISC"
+}
